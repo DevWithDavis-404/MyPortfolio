@@ -11,7 +11,7 @@ export const projects: Project[] = [
       variant: "default",
       text: "School",
     },
-    thumbnail: "/assets/student_portal/dashboard.png",
+    thumbnail: "/assets/student-portal/dashboard.png",
     images: [
       {
         title: "Login Page",
